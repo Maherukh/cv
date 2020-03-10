@@ -27,9 +27,11 @@ Tools: Git, GitHub, Figma, Adobe XD.
  
 Projects  
 Visualization of data structure variables       January 2018 – May 2018 
+
 Worked in a team of three to develop a desktop application that lets you visualize Data Structures such as linked lists, Stack and Queues.  I was responsible for designing the application.  Technologies/Tools: Java, Java-Swing. 
  
 REISE – a travel companion application         December 2019 – Present 
+
 A Travel application with a dynamic schedule to help the traveler to manage his time while visiting the famous places and a weather notification manager to tell the traveler about the weather of place he is visiting. I am responsible for front end work of the application.  Technologies/Tools: Dart, Flutter. 
  
  
