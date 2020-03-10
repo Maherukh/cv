@@ -1,5 +1,10 @@
 Md Maherukh Ajmal 
-GitHub: github.com/Maherukh               Phone: +91 7660939715 LinkedIn: linkedin.com/in/maherukh-ajmal-07b939169/           E-mail: maherukh1999@gmail.com 
+
+
+GitHub: github.com/Maherukh               
+Phone: +91 7660939715 LinkedIn: linkedin.com/in/maherukh-ajmal-07b939169/           
+E-mail: maherukh1999@gmail.com 
+
  
 About me 
 4th year B.E, CSE Student at MJCET with good academic record and interest in Software and Web development. 
