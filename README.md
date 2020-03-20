@@ -39,7 +39,8 @@ A Travel application with a dynamic schedule to help the traveler to manage his 
 ## Certification  
 Android Application development by Azure Skynet Technologies.  
 Paper publication on “Extraction of Gold from Electronics” at Technologies for sustainable Ecosystem.  
-  * Link: http://www.jetir.org/papers/JETIR1907P21.pdf 
+  * Link: http://www.jetir.org/papers/JETIR1907P21.pdf.
+  
 Power Point Guide Online training certificate from Udemy. 
  
  
