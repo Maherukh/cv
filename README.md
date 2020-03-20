@@ -2,7 +2,8 @@
 
 
 GitHub: github.com/Maherukh               
-Phone: +91 7660939715 LinkedIn: linkedin.com/in/maherukh-ajmal-07b939169/           
+Phone: +91 7660939715 
+LinkedIn: linkedin.com/in/maherukh-ajmal-07b939169/           
 E-mail: maherukh1999@gmail.com 
 
  
